@@ -1,0 +1,7 @@
+export const SERCH = 'SERCH'
+export const IS_SEARCH = 'IS_SEARCH'
+export const CHANGE_WORD = 'CHANGE_WORD'
+export const CHANGE_NUM_PAGES = 'CHANGE_NUM_PAGES'
+export const CHANGE_CURENT_PAGE = 'CHANGE_CURENT_PAGE'
+export const MINUS_PAGE_ONE = 'MINUS_PAGE_ONE'
+export const PLUS_PAGE_ONE = 'PLUS_PAGE_ONE'
