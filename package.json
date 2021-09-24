@@ -2,7 +2,7 @@
   "name": "cbi_tec",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/puxa561740/CBI-Technologies",
+  "homepage": "https://github.com/puxa561740/CBI-Technologies-pablick/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
