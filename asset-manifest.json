@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/puxa561740/CBI-Technologies-pablick/static/css/main.97cae924.chunk.css",
+    "main.js": "/puxa561740/CBI-Technologies-pablick/static/js/main.07258981.chunk.js",
+    "main.js.map": "/puxa561740/CBI-Technologies-pablick/static/js/main.07258981.chunk.js.map",
+    "runtime-main.js": "/puxa561740/CBI-Technologies-pablick/static/js/runtime-main.c8d8574c.js",
+    "runtime-main.js.map": "/puxa561740/CBI-Technologies-pablick/static/js/runtime-main.c8d8574c.js.map",
+    "static/js/2.2848b4cb.chunk.js": "/puxa561740/CBI-Technologies-pablick/static/js/2.2848b4cb.chunk.js",
+    "static/js/2.2848b4cb.chunk.js.map": "/puxa561740/CBI-Technologies-pablick/static/js/2.2848b4cb.chunk.js.map",
+    "index.html": "/puxa561740/CBI-Technologies-pablick/index.html",
+    "static/css/main.97cae924.chunk.css.map": "/puxa561740/CBI-Technologies-pablick/static/css/main.97cae924.chunk.css.map",
+    "static/js/2.2848b4cb.chunk.js.LICENSE.txt": "/puxa561740/CBI-Technologies-pablick/static/js/2.2848b4cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8d8574c.js",
+    "static/js/2.2848b4cb.chunk.js",
+    "static/css/main.97cae924.chunk.css",
+    "static/js/main.07258981.chunk.js"
+  ]
+}
